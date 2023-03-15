@@ -2,7 +2,7 @@
   "_Channel__channel_id": "UCMCgOm8GZkHp8zJ6l7_hIuA",
   "channel": {
     "kind": "youtube#channelListResponse",
-    "etag": "d4G97jWJ3K_5bEfROuNsuS-bknc",
+    "etag": "thtPNDvusq7u96hIXKqRTiHI69Q",
     "pageInfo": {
       "totalResults": 1,
       "resultsPerPage": 5
@@ -10,7 +10,7 @@
     "items": [
       {
         "kind": "youtube#channel",
-        "etag": "gELvzTj6VXjQcqPFrkFpsy6WG4o",
+        "etag": "n3UKM9gMAtQXJi3s5pGZ61y-Mlo",
         "id": "UCMCgOm8GZkHp8zJ6l7_hIuA",
         "snippet": {
           "title": "вДудь",
@@ -40,7 +40,7 @@
           }
         },
         "statistics": {
-          "viewCount": "1964289708",
+          "viewCount": "1964564030",
           "subscriberCount": "10300000",
           "hiddenSubscriberCount": false,
           "videoCount": "165"
@@ -53,5 +53,5 @@
   "url": "https://yt3.ggpht.com/ytc/AL5GRJV2Av2ouJAjcHnaA8jokTI4uq6DZLnfHJm6T8vw=s88-c-k-c0x00ffffff-no-rj",
   "subscribers": "10300000",
   "video_count": "165",
-  "view_count": "1964289708"
+  "view_count": "1964564030"
 }
