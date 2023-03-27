@@ -1,7 +1,7 @@
 from src.channel import Channel
 
 
-class Video(Channel):
+class Video:
     def __init__(self, video_id):
         self.video_id = video_id
         self.video_response = Channel.youtube.videos().list(part='snippet,statistics,contentDetails,topicDetails',
